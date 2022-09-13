@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/Coaty-World/go-ethereum/common"
+	"github.com/Coaty-World/go-ethereum/trie"
 )
 
 func hexToNibbles(s string) []byte {

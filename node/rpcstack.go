@@ -28,8 +28,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/Coaty-World/go-ethereum/log"
+	"github.com/Coaty-World/go-ethereum/rpc"
 	"github.com/rs/cors"
 )
 

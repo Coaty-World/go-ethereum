@@ -22,8 +22,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/Coaty-World/go-ethereum/cmd/utils"
+	"github.com/Coaty-World/go-ethereum/crypto"
 	"gopkg.in/urfave/cli.v1"
 )
 

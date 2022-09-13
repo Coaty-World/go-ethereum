@@ -21,14 +21,14 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/les/utils"
-	"github.com/ethereum/go-ethereum/les/vflux"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/nodestate"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/Coaty-World/go-ethereum/common/mclock"
+	"github.com/Coaty-World/go-ethereum/ethdb"
+	"github.com/Coaty-World/go-ethereum/les/utils"
+	"github.com/Coaty-World/go-ethereum/les/vflux"
+	"github.com/Coaty-World/go-ethereum/log"
+	"github.com/Coaty-World/go-ethereum/p2p/enode"
+	"github.com/Coaty-World/go-ethereum/p2p/nodestate"
+	"github.com/Coaty-World/go-ethereum/rlp"
 )
 
 var (

@@ -23,13 +23,13 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/Coaty-World/go-ethereum/common/mclock"
+	"github.com/Coaty-World/go-ethereum/ethdb"
+	"github.com/Coaty-World/go-ethereum/log"
+	"github.com/Coaty-World/go-ethereum/metrics"
+	"github.com/Coaty-World/go-ethereum/p2p/enode"
+	"github.com/Coaty-World/go-ethereum/p2p/enr"
+	"github.com/Coaty-World/go-ethereum/rlp"
 )
 
 var (

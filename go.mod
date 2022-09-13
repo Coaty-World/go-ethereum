@@ -1,4 +1,4 @@
-module github.com/ethereum/go-ethereum
+module github.com/Coaty-World/go-ethereum
 
 go 1.17
 
